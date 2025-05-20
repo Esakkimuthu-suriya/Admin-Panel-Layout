@@ -1,0 +1,90 @@
+*{
+    width: 100%;
+}
+body{
+    width: 100%;
+    background-color:aliceblue;
+}
+section{
+    margin-top:-7%;
+    margin-left:-1px;
+    width: 20%;
+    background-color:rgb(3, 38, 67);
+    cursor: pointer;
+}
+nav{
+    display: block;
+    color:white;
+}
+p{
+    padding: 8px;
+    color: darkgray;
+    list-style-type: none;
+}
+p:hover{
+    background-color:rgb(199, 199, 199);
+    padding:8px 0px;
+    color: rgb(4, 4, 4);
+}
+.bibicaret-down{
+    padding-left:100px;;
+}
+h4{
+    padding-left: 20px;
+    color:white;
+}
+h1{
+    padding-left: 25px;
+    color: white;
+}
+.para{
+    color: darkgray;
+    padding-left: 10px;
+}
+.header{
+    width: 80%;
+    position: relative;
+    bottom:-28px;
+    top:1px;
+    left: 20%;
+    margin-top: 2px;
+    display:flex;
+    background-color: white;
+}
+.head{
+    display: flex;
+    column-gap: 50px;
+    justify-content:space-between;
+}
+input{
+    border: 0.5px solid black;
+    outline: none;
+}
+.new{
+    width: 80%;
+    position: relative;
+    left: 20%;
+    color: black;
+}
+.card{
+    display:flex;
+    background-color:dodgerblue;
+    border-radius: 8px;
+    width: 200px;
+    height: 60px;
+    position: relative;
+    left: 22%;
+    top: 70px;
+}
+main{
+    position: relative;
+    left: 10px;
+    top:20px;
+}
+.layout1{
+    color: white;
+    position: relative;
+    left: 100px;
+    bottom :25px;
+}
+
